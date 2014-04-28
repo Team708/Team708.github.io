@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: site.tagline
+title: Team 708 - Hardwired Fusion
+tagline: Control Systems
 ---
 {% include JB/setup %}
 
@@ -13,10 +13,10 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 In `_config.yml` remember to specify your own data:
     
-    title : My Blog =)
+    title : site.title
     
     author :
-      name : Name Lastname
+      name : site.name
       email : blah@email.test
       github : username
       twitter : username
