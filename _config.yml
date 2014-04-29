@@ -11,11 +11,10 @@ pygments: true
 title : Team 708 - Hardwired Fusion
 tagline: Control Systems
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Nam Tran
+  email : namtran@team708.org
+  github : Team708
+  twitter: HardwiredFusion
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

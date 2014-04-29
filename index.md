@@ -5,42 +5,23 @@ tagline: Control Systems
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Visit the [our team's website](http://www.team708.org) to learn more about our team.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## What Our Control Systems Team Does
 
-## Update Author Attributes
+From our team's website:
 
-In `_config.yml` remember to specify your own data:
-    
-    title : site.title
-    
-    author :
-      name : site.name
-      email : blah@email.test
-      github : username
-      twitter : username
+    Control Systems team programs all the functions of the robot so that it can complete the tasks necessary for the year's game. 
+    Control Systems team is also in charge of anything else electronic that is put on the robot such as sensors and LED lights.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+## Check out our code on Github!
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+We currently programme our robots in Java using the FRC WPI Library. All of our previous years' code, as well as our current robot's code, is available on Github.
 
-    $ rm -rf _posts/core-samples
+    $ git clone https://github.com/Team708/Team-708-Hardwired-Fusion.git
 
-Here's a sample "posts list".
+We are happy to help with any questions that you may have about our software, and all of our contact information is on the Github organisation for our team.
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+## Contact Us
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+You can contact us through a variety of services, all listed [here](http://www.team708.org/contact-us.html).
