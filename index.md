@@ -16,7 +16,7 @@ From our team's website:
 
 ## Check out our code on Github!
 
-We currently programme our robots in Java using the FRC WPI Library. All of our previous years' code, as well as our current robot's code, is available on Github.
+We currently programme our robots in Java using the FRC WPI Library. All of our previous years' code, as well as our current robot's code, is available on [Github](https://github.com/Team708/).
 
     $ git clone https://github.com/Team708/Team-708-Hardwired-Fusion.git
 
