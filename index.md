@@ -5,7 +5,11 @@ tagline: Control Systems
 ---
 {% include JB/setup %}
 
-Visit the [our team's website](http://www.team708.org) to learn more about our team.
+## Quick Links
+
+These are just some quick links to get you where you probably are trying to go on this site:
+* [Blog Posts](http://team708.github.io/archive.html)
+* [Resources](http://team708.github.io/resources.html)
 
 ## What Our Control Systems Team Does
 
@@ -25,3 +29,4 @@ We are happy to help with any questions that you may have about our software, an
 ## Contact Us
 
 You can contact us through a variety of services, all listed [here](http://www.team708.org/contact-us.html).
+Visit the [our team's website](http://www.team708.org) to learn more about our team.
