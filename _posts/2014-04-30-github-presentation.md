@@ -12,7 +12,7 @@ we had the issue of only the head programmer knowing how to use Git. This year, 
 Having a graphical interface to see what is one is trying to do greatly helped out everyone. There was still a bit of a learning curve that needed to be
 worked on.
 
-My solution to this was creating a PowerPoint presentation for next year, and it can be downloaded [here](downloads/github_708.pptx). It covers the basics
+My solution to this was creating a PowerPoint presentation for next year, and it can be downloaded [here](http://team708.github.io/blog/2014/04/30/github-presentation/downloads/github_708.pptx). It covers the basics
 of using both the GUI and how to do the same thing in the Git shell, as well as some things that I have yet to figure out if it is possible in the GUI.
 
 I am open to anything that needs to be added to it, just comment below or email me.
